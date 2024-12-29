@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149111072766",
+    "project_id": "dashboard-7e400",
+    "storage_bucket": "dashboard-7e400.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149111072766:android:40de0b69d12bc7727f02af",
+        "android_client_info": {
+          "package_name": "com.mynewapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Qn_J7BcIQGRq2J-W5UyBqCN2XTwQfPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
